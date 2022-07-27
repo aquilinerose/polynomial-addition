@@ -1,0 +1,17 @@
+photon@node11:~$ ./polynomial.out
+enter the degree of the polynomial3
+For First Polynomial
+Enter Coefficient for x^3: 1
+Enter Coefficient for x^2: 5
+Enter Coefficient for x^1: 6
+Enter Coefficient for x^0: 9
+
+For Second Polynomial
+Enter Coefficient for x^3: 3
+Enter Coefficient for x^2: 4
+Enter Coefficient for x^1: 5
+Enter Coefficient for x^0: 7
+
+Sum of Polynomials is: 4x^3+9x^2+11x^1+16x^0
+photon@node11:~$ 
+
